@@ -5,8 +5,8 @@
 </p>
 <h2 align="center">Neofetch-Crystal</h2>
 
-<p align="center">Neofetch-Crystal is a fork of [neofetch](https://github.com/dylanaraps/neofetch) that includes the Crystal Linux logo.</p>
-<p align="center">It also serves as an updated version of the original `neofetch` since it seems unmaintained.</p>
+<p align="center">Neofetch-Crystal is a fork of <a href="https://github.com/dylanaraps/neofetch">neofetch</a> that includes the Crystal Linux logo.</p>
+<p align="center">It also serves as an updated version of the original <code>neofetch</code> since it seems unmaintained.</p>
 
 ## Installation
 
