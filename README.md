@@ -14,8 +14,8 @@ Neofetch-Crystal comes pre-installed with [Crystal Linux](https://getcryst.al/si
 
 ### From source
 
-**Neofetch-Crystal provides and conflicts `neofetch`**  
-**If you already have `neofetch` installed, please uninstall it before installing Neofetch-Crystal from source**  
+**Neofetch-Crystal provides and conflicts `neofetch`.**  
+**If you already have `neofetch` installed, please uninstall it before installing Neofetch-Crystal from source.**  
   
 Download the archive of the [latest stable release](https://github.com/crystal-linux/neofetch-crystal/releases/latest) and extract it.  
 *Alternatively, you can clone this repository via `git`.*  
